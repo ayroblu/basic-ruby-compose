@@ -3,6 +3,8 @@ Basic Rails Docker Setup
 
 Making this cause I look at too many rails packages and have to setup a docker compose to run them (hah rvm)
 
+> Inspiration: https://docs.docker.com/compose/rails/
+
 > Note: May need to delete `tmp/pids/server.pid` every now and then
 
 Setup
